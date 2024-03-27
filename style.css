@@ -1685,7 +1685,7 @@ ul {
 
 /* landing */
 .landing {
-    background-image: url(imgs/1.jpg);
+    background-image: url(1.jpg);
     background-size: cover;
     background-position: center center;
     width: 100vw;
@@ -1694,6 +1694,7 @@ ul {
     min-width: 300px;
     margin-top: -40px;
 }
+
 
 /* slider */
 .landing .slider {
